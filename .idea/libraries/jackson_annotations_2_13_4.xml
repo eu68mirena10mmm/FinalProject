@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="jackson-annotations-2.13.4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/jackson-annotations-2.13.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/jackson-databind-2.13.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/jackson-core-2.13.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/h2-2.1.214.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/angus-activation-1.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/jakarta.activation-api-2.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/jakarta.xml.bind-api-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/jaxb-impl-4.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/jaxb-core-4.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
